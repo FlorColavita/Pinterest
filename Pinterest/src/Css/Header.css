@@ -1,0 +1,10 @@
+ul li{
+    list-style: none;
+}
+img{
+    width: 200px;
+}
+*{
+    background-color: black;
+    color: white;
+}
